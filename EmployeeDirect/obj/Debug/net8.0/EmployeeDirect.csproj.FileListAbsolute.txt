@@ -1,0 +1,7 @@
+C:\Users\2395520\source\repos\EmployeeDirect\EmployeeDirect\obj\Debug\net8.0\EmployeeDirect.csproj.AssemblyReference.cache
+C:\Users\2395520\source\repos\EmployeeDirect\EmployeeDirect\obj\Debug\net8.0\EmployeeDirect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2395520\source\repos\EmployeeDirect\EmployeeDirect\obj\Debug\net8.0\EmployeeDirect.AssemblyInfoInputs.cache
+C:\Users\2395520\source\repos\EmployeeDirect\EmployeeDirect\obj\Debug\net8.0\EmployeeDirect.AssemblyInfo.cs
+C:\Users\2395520\source\repos\EmployeeDirect\EmployeeDirect\obj\Debug\net8.0\EmployeeDirect.csproj.CoreCompileInputs.cache
+C:\Users\2395520\source\repos\EmployeeDirect\EmployeeDirect\obj\Debug\net8.0\EmployeeDirect.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\2395520\source\repos\EmployeeDirect\EmployeeDirect\obj\Debug\net8.0\EmployeeDirect.MvcApplicationPartsAssemblyInfo.cache
